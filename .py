@@ -105,3 +105,4 @@ result_label.pack(pady=20)
 
 # ---------- Run App ----------
 root.mainloop()
+chidera leave me alone
